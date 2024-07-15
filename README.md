@@ -6,6 +6,8 @@ Challenge Conversor de Monedas es un proyecto de desafío de programación del "
 - 📖 Lista los códigos de las monedas disponibles.
 - 📅 Realiza conversión de una moneda a otra.
 - 📅 Crea un registro de las conversiones realizadas.
+  
+https://github.com/user-attachments/assets/45739745-cc23-43b3-81c9-2118f5076df8
 
 ### Requisitos 📋
 

@@ -17,6 +17,7 @@ Challenge Conversor de Monedas es un proyecto de desafío de programación del "
 -👤 Luis Lara
 
 ### Licencia 📝
+- GNU GENERAL PUBLIC LICENSE
 
 ### Proyecto 🤝
 - 🤝 Este proyecto fue desarrollado como parte del programa Oracle Next Education en colaboración con Alura y Oracle.
